@@ -1,0 +1,3 @@
+allowed-protocol-links= npm:, file:
+public-hoist-pattern[]=*esbuild*
+public-hoist-pattern[]=*workerd*
